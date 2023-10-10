@@ -1,0 +1,3 @@
+this is a trial
+shell_project_init/exet.txt
+/home/kinyuy/revision/shellex/shell_project_init/exet.txt
